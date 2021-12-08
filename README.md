@@ -25,5 +25,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Crate new Component
 ```
-npm rin component [name-component]
+npm run component [name-component]
 ```
